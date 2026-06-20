@@ -1,0 +1,6 @@
+{
+  "name": "NayePankh Foundation",
+  "description": "A premier social impact platform for NayePankh Foundation, raising awareness and facilitating donations, volunteering, and community change.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
